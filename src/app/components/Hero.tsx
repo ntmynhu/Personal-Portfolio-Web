@@ -77,10 +77,10 @@ export function Hero() {
             <h1
               className="leading-none whitespace-nowrap text-[180px] text-[#ffffff]"
               style={{
-                fontFamily: "'Mrs Saint Delafield', cursive",
+                fontFamily: "'Mrs_Saint_Delafield', cursive",
               }}
             >
-              <p className="text-[#d9d9d9] font-[Mrs Saint Delafield]">
+              <p className="text-[#d9d9d9] font-[Mrs_Saint_Delafield]">
                 My
               </p>
             </h1>
@@ -109,12 +109,12 @@ export function Hero() {
           >
             <div
               className="text-[#ff6694] text-4xl md:text-5xl text-center leading-none"
-              style={{ fontFamily: "'Reenie Beanie', cursive" }}
+              style={{ fontFamily: "'Mrs_Saint_Delafield', cursive" }}
             >
-              <p className="p-[0px] text-[#d9d9d9] text-[54px] font-[Mrs Saint Delafield]">
+              <p className="p-[0px] text-[#d9d9d9] text-[54px] font-[Mrs_Saint_Delafield]">
                 Turn coffee into code
               </p>
-              <p className="text-[#d9d9d9] text-[54px] font-[Mrs Saint Delafield]">
+              <p className="text-[#d9d9d9] text-[54px] font-[Mrs_Saint_Delafield]">
                 Make the world a better place
               </p>
             </div>
@@ -146,22 +146,6 @@ export function Hero() {
             </div>
           </motion.div>
 
-          {/* Bottom handwritten text continuation */}
-          <motion.div
-            initial={{ opacity: 0 }}
-            animate={{ opacity: 1 }}
-            transition={{ duration: 0.8, delay: 0.9 }}
-            className="absolute left-1/2 bottom-32 -translate-x-1/2 z-5"
-          >
-            <p
-              className="text-gray-400 text-2xl md:text-3xl italic whitespace-nowrap"
-              style={{
-                fontFamily: "'Brush Script MT', cursive",
-              }}
-            >
-              in the real world
-            </p>
-          </motion.div>
         </div>
       </div>
 

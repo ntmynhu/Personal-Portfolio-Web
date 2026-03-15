@@ -16,12 +16,12 @@ export function Projects() {
       fullDescription:
         "Blossom Corner is a farming simulation game where players can experience the joy of growing and caring for beautiful flowers. Starting with a small garden, you grow flowers, take care of them and sell them at your little flower shop.",
       image:
-        "https://images.unsplash.com/photo-1640187128454-1d7c462ede26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtb2JpbGUlMjBnYW1lJTIwZGV2ZWxvcG1lbnR8ZW58MXx8fHwxNzczNDA5MjEzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "https://github.com/ntmynhu/Personal-Portfolio-Web/blob/main/src/assets/BlossomCorner/Homescene.jpg?raw=true",
       screenshots: [
-        "https://images.unsplash.com/photo-1758874572979-bd0f18d34565?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx2aXJ0dWFsJTIwcmVhbGl0eSUyMGdhbWluZ3xlbnwxfHx8fDE3NzMzOTAzMjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-        "https://images.unsplash.com/photo-1758790220845-c2d5e5ec0391?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwdXp6bGUlMjBnYW1lJTIwbW9iaWxlfGVufDF8fHx8MTc3MzQwOTgyM3ww&ixlib=rb-4.1.0&q=80&w=1080",
-        "https://images.unsplash.com/photo-1640187128454-1d7c462ede26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtb2JpbGUlMjBnYW1lJTIwZGV2ZWxvcG1lbnR8ZW58MXx8fHwxNzczNDA5MjEzfDA&ixlib=rb-4.1.0&q=80&w=1080",
-        "https://images.unsplash.com/photo-1598978028953-799807c097b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxnYW1lJTIwZGV2ZWxvcGVyJTIwd29ya3NwYWNlfGVufDF8fHx8MTc3MzQwOTIxMXww&ixlib=rb-4.1.0&q=80&w=1080",
+        "https://github.com/ntmynhu/Personal-Portfolio-Web/blob/main/src/assets/BlossomCorner/Homescene.jpg?raw=true",
+        "https://github.com/ntmynhu/Personal-Portfolio-Web/blob/main/src/assets/BlossomCorner/Homescene.jpg?raw=true",
+        "https://github.com/ntmynhu/Personal-Portfolio-Web/blob/main/src/assets/BlossomCorner/Homescene.jpg?raw=true",
+        "https://github.com/ntmynhu/Personal-Portfolio-Web/blob/main/src/assets/BlossomCorner/Homescene.jpg?raw=true",
       ],
       videoUrl:
         "https://www.youtube.com/embed/KAwdz8wRhlo?si=pvHtusr6-YW9I0FG",
@@ -94,7 +94,7 @@ export function Projects() {
       image:
         "https://images.unsplash.com/photo-1676238560626-45d35b63b38f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHwzZCUyMG1vZGVsaW5nJTIwc29mdHdhcmV8ZW58MXx8fHwxNzczMzMwNTEyfDA&ixlib=rb-4.1.0&q=80&w=1080",
       screenshots: [
-        "https://images.unsplash.com/photo-1613626318906-68be0aef3334?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtdWx0aXBsYXllciUyMGdhbWUlMjBiYXR0bGV8ZW58MXx8fHwxNzczNDA5ODI0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "https://images.unsplash.com/photo-1676238560626-45d35b63b38f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHwzZCUyMG1vZGVsaW5nJTIwc29mdHdhcmV8ZW58MXx8fHwxNzczMzMwNTEyfDA&ixlib=rb-4.1.0&q=80&w=1080",
         "https://images.unsplash.com/photo-1676238560626-45d35b63b38f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHwzZCUyMG1vZGVsaW5nJTIwc29mdHdhcmV8ZW58MXx8fHwxNzczMzMwNTEyfDA&ixlib=rb-4.1.0&q=80&w=1080",
         "https://images.unsplash.com/photo-1642678730255-40a9e1847fb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjeWJlcnB1bmslMjBnYW1lJTIwc2NyZWVuc2hvdHxlbnwxfHx8fDE3NzM0MDk4MjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
         "https://images.unsplash.com/photo-1758043323593-d4511bcf82a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwaXhlbCUyMGFydCUyMHBsYXRmb3JtZXJ8ZW58MXx8fHwxNzczNDA5ODI1fDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -218,7 +218,6 @@ export function Projects() {
                   src={project.image}
                   alt={project.title}
                   className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
-                  fallbackSrc={project.image}
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-[#14171c] to-transparent opacity-60"></div>
                 <div className="absolute inset-0 bg-[#ff6694]/0 group-hover:bg-[#ff6694]/10 transition-colors flex items-center justify-center">

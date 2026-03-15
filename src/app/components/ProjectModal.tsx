@@ -33,7 +33,7 @@ export function ProjectModal({ project, onClose }: ProjectModalProps) {
         animate={{ opacity: 1, scale: 1 }}
         exit={{ opacity: 0, scale: 0.9 }}
         transition={{ duration: 0.3 }}
-        className="bg-[#1a1d23] rounded-2xl max-w-5xl w-full max-h-[90vh] overflow-y-auto border-2 border-[#ff6694]"
+        className="bg-[#1a1d23] rounded-2xl max-w-6xl w-full max-h-[90vh] overflow-y-auto border-2 border-[#ff6694]"
       >
         {/* Header */}
         <div className="sticky top-0 bg-[#1a1d23] border-b border-gray-800 p-6 flex justify-between items-start z-10">
@@ -129,7 +129,6 @@ export function ProjectModal({ project, onClose }: ProjectModalProps) {
                     src={screenshot}
                     alt={`${project.title} screenshot ${index + 1}`}
                     className="w-full h-full object-cover"
-                    fallbackSrc={screenshot}
                   />
                 </div>
               ))}

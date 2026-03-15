@@ -1,6 +1,6 @@
 import { motion } from "motion/react";
 import { ImageWithFallback } from "./figma/ImageWithFallback";
-const heroImage = "https://raw.githubusercontent.com/ntmynhu/Personal-Portfolio-Web/refs/heads/main/src/assets/5089d4fc33c7a5255a3d0aafd65fee28f5b8133b.png";
+const heroImage = "https://github.com/ntmynhu/Personal-Portfolio-Web/blob/main/src/assets/HeroPage/Minhu.png?raw=true";
 
 export function Hero() {
   return (

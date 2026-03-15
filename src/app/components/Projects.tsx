@@ -16,7 +16,7 @@ export function Projects() {
       fullDescription:
         "Blossom Corner is a farming simulation game where players can experience the joy of growing and caring for beautiful flowers. Starting with a small garden, you grow flowers, take care of them and sell them at your little flower shop.",
       image:
-        "https://github.com/ntmynhu/Personal-Portfolio-Web/blob/main/src/assets/BlossomCorner/Homescene.jpg?raw=true",
+        "https://github.com/ntmynhu/Mynhu-Portfolio/blob/main/src/assets/BlossomCorner/Frame%201%20(6).png?raw=true",
       screenshots: [
         "https://github.com/ntmynhu/Personal-Portfolio-Web/blob/main/src/assets/BlossomCorner/Homescene.jpg?raw=true",
         "https://github.com/ntmynhu/Personal-Portfolio-Web/blob/main/src/assets/BlossomCorner/Homescene.jpg?raw=true",
@@ -27,10 +27,7 @@ export function Projects() {
         "https://www.youtube.com/embed/KAwdz8wRhlo?si=pvHtusr6-YW9I0FG",
       tech: [
         "Unity",
-        "C#",
-        "Firebase",
-        "Unity Ads",
-        "In-App Purchases",
+        "C#"
       ],
       features: [
         "200+ unique puzzle levels",
@@ -49,13 +46,13 @@ export function Projects() {
       },
     },
     {
-      title: "VR Adventure Experience",
+      title: "Foxy Adventure: The Truth Pearl",
       description:
-        "Immersive VR experience with intuitive controls and stunning environments",
+        "A metroidvania platformer where Foxy explores the world, fights monsters, and uncovers the truth about his homeland.",
       fullDescription:
-        "Step into a breathtaking virtual reality adventure that transports players to fantastical worlds. Built from the ground up for VR, this experience features intuitive hand-tracking controls, physics-based interactions, and stunning environments that fully utilize the immersive capabilities of modern VR headsets.",
+        "“Foxy Adventure: The Truth Pearl” is an action-adventure platformer where players guide Foxy the fox through a world slowly turning to stone after a mysterious tremor, battling monsters and searching for an ancient pearl to restore life to his homeland.",
       image:
-        "https://images.unsplash.com/photo-1762742228148-f38c34ea7f1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx1bml0eSUyMGdhbWUlMjBkZXZlbG9wbWVudHxlbnwxfHx8fDE3NzMzMzkwOTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+        "https://github.com/ntmynhu/Mynhu-Portfolio/blob/main/src/assets/FoxyAdventure/Frame%203%20(3).png?raw=true",
       screenshots: [
         "https://images.unsplash.com/photo-1758874572979-bd0f18d34565?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx2aXJ0dWFsJTIwcmVhbGl0eSUyMGdhbWluZ3xlbnwxfHx8fDE3NzMzOTAzMjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
         "https://images.unsplash.com/photo-1762742228148-f38c34ea7f1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx1bml0eSUyMGdhbWUlMjBkZXZlbG9wbWVudHxlbnwxfHx8fDE3NzMzMzkwOTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -86,13 +83,13 @@ export function Projects() {
       },
     },
     {
-      title: "Multiplayer Battle Arena",
+      title: "DeMimics",
       description:
         "Fast-paced multiplayer game with competitive ranking system",
       fullDescription:
         "Enter the arena in this intense 5v5 multiplayer battle game. Choose from a diverse roster of heroes, each with unique abilities and playstyles. Climb the competitive ladder through strategic teamwork, precise mechanics, and smart decision-making. Features a robust matchmaking system and regular balance updates.",
       image:
-        "https://images.unsplash.com/photo-1676238560626-45d35b63b38f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHwzZCUyMG1vZGVsaW5nJTIwc29mdHdhcmV8ZW58MXx8fHwxNzczMzMwNTEyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "https://github.com/ntmynhu/Mynhu-Portfolio/blob/main/src/assets/DeMimics/Screenshot%202026-02-13%20194145.png?raw=true",
       screenshots: [
         "https://images.unsplash.com/photo-1676238560626-45d35b63b38f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHwzZCUyMG1vZGVsaW5nJTIwc29mdHdhcmV8ZW58MXx8fHwxNzczMzMwNTEyfDA&ixlib=rb-4.1.0&q=80&w=1080",
         "https://images.unsplash.com/photo-1676238560626-45d35b63b38f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHwzZCUyMG1vZGVsaW5nJTIwc29mdHdhcmV8ZW58MXx8fHwxNzczMzMwNTEyfDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -118,13 +115,13 @@ export function Projects() {
       },
     },
     {
-      title: "2D Platformer",
+      title: "CoTam",
       description:
         "Retro-style platformer with pixel art and challenging level design",
       fullDescription:
         "A love letter to classic 2D platformers, featuring tight controls, challenging level design, and gorgeous pixel art. Navigate through beautifully crafted levels filled with secrets, collectibles, and creative boss battles. The game pays homage to retro classics while introducing modern quality-of-life features.",
       image:
-        "https://images.unsplash.com/photo-1592840496694-26d035b52b48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx2aWRlbyUyMGdhbWUlMjBjb250cm9sbGVyfGVufDF8fHx8MTc3MzMxNjgzNHww&ixlib=rb-4.1.0&q=80&w=1080",
+        "https://github.com/ntmynhu/Mynhu-Portfolio/blob/main/src/assets/CoTam/Screenshot%202026-01-18%20145835.png?raw=true",
       screenshots: [
         "https://images.unsplash.com/photo-1758043323593-d4511bcf82a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwaXhlbCUyMGFydCUyMHBsYXRmb3JtZXJ8ZW58MXx8fHwxNzczNDA5ODI1fDA&ixlib=rb-4.1.0&q=80&w=1080",
         "https://images.unsplash.com/photo-1592840496694-26d035b52b48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx2aWRlbyUyMGdhbWUlMjBjb250cm9sbGVyfGVufDF8fHx8MTc3MzMxNjgzNHww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -144,38 +141,6 @@ export function Projects() {
       role: "Game Designer & Developer",
       duration: "8 months",
       platform: "PC, Nintendo Switch",
-      links: {
-        demo: "#",
-        github: "#",
-      },
-    },
-    {
-      title: "Simulation Game",
-      description:
-        "Complex simulation with AI-driven NPCs and dynamic economy system",
-      fullDescription:
-        "Build and manage your own thriving city in this deep simulation game. Watch as AI-driven citizens live their lives, work jobs, and interact with each other in a living, breathing world. Manage resources, build infrastructure, and respond to dynamic events that challenge your strategic thinking.",
-      image:
-        "https://images.unsplash.com/photo-1598978028953-799807c097b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxnYW1lJTIwZGV2ZWxvcGVyJTIwd29ya3NwYWNlfGVufDF8fHx8MTc3MzQwOTIxMXww&ixlib=rb-4.1.0&q=80&w=1080",
-      screenshots: [
-        "https://images.unsplash.com/photo-1598978028953-799807c097b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxnYW1lJTIwZGV2ZWxvcGVyJTIwd29ya3NwYWNlfGVufDF8fHx8MTc3MzQwOTIxMXww&ixlib=rb-4.1.0&q=80&w=1080",
-        "https://images.unsplash.com/photo-1758598738339-6b1602317e52?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxnYW1lJTIwZGV2ZWxvcG1lbnQlMjBzY3JlZW58ZW58MXx8fHwxNzczMzE3NjM4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-        "https://images.unsplash.com/photo-1676238560626-45d35b63b38f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHwzZCUyMG1vZGVsaW5nJTIwc29mdHdhcmV8ZW58MXx8fHwxNzczMzMwNTEyfDA&ixlib=rb-4.1.0&q=80&w=1080",
-        "https://images.unsplash.com/photo-1762742228148-f38c34ea7f1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx1bml0eSUyMGdhbWUlMjBkZXZlbG9wbWVudHxlbnwxfHx8fDE3NzMzMzkwOTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      ],
-      videoUrl: "https://www.youtube.com/embed/dQw4w9WgXcQ",
-      tech: ["Unity", "C#", "ML-Agents", "DOTween"],
-      features: [
-        "AI-driven NPC behavior systems",
-        "Dynamic economy simulation",
-        "Resource management and optimization",
-        "Random events and disasters",
-        "Modding support",
-        "Endless gameplay possibilities",
-      ],
-      role: "Gameplay Programmer",
-      duration: "18 months",
-      platform: "PC",
       links: {
         demo: "#",
         github: "#",

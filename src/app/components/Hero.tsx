@@ -80,7 +80,7 @@ export function Hero() {
                 fontFamily: "'Mrs Saint Delafield', cursive",
               }}
             >
-              <p className="text-[#d9d9d9] font-[Mrs_Saint_Delafield]">
+              <p className="text-[#d9d9d9] font-[Mrs Saint Delafield]">
                 My
               </p>
             </h1>
@@ -132,23 +132,6 @@ export function Hero() {
                 MIINHUU
               </p>
             </div>
-          </motion.div>
-
-          {/* Center - Handwritten text */}
-          <motion.div
-            initial={{ opacity: 0 }}
-            animate={{ opacity: 1 }}
-            transition={{ duration: 0.8, delay: 0.7 }}
-            className="absolute left-1/2 top-1/2 -translate-x-1/2 translate-y-8 z-5"
-          >
-            <p
-              className="text-gray-400 text-2xl md:text-3xl italic whitespace-nowrap"
-              style={{
-                fontFamily: "'Brush Script MT', cursive",
-              }}
-            >
-              I'm looking for my place
-            </p>
           </motion.div>
 
           {/* Right side - Year tag */}

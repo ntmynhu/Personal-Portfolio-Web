@@ -7,40 +7,6 @@ export function Hero() {
     <section className="relative min-h-screen bg-[#1a1d23] overflow-hidden flex items-center justify-center px-6">
       {/* Decorative scribbles */}
 
-      {/* Heart decoration top right */}
-      <motion.div
-        initial={{ opacity: 0, scale: 0 }}
-        animate={{ opacity: 1, scale: 1 }}
-        transition={{ delay: 0.5, duration: 0.5 }}
-        className="absolute top-1/3 right-32 w-16 h-16 z-10"
-      >
-        <svg viewBox="0 0 100 100" className="w-full h-full">
-          <path
-            d="M50 85 C 20 60, 10 40, 15 25 C 20 10, 35 5, 50 20 C 65 5, 80 10, 85 25 C 90 40, 80 60, 50 85 Z"
-            stroke="#ff6694"
-            strokeWidth="3"
-            fill="none"
-          />
-        </svg>
-      </motion.div>
-
-      {/* Heart decoration bottom left */}
-      <motion.div
-        initial={{ opacity: 0, rotate: -45 }}
-        animate={{ opacity: 1, rotate: 0 }}
-        transition={{ delay: 0.8, duration: 0.6 }}
-        className="absolute bottom-1/3 left-40 w-12 h-12 z-10"
-      >
-        <svg viewBox="0 0 100 100" className="w-full h-full">
-          <path
-            d="M50 85 C 20 60, 10 40, 15 25 C 20 10, 35 5, 50 20 C 65 5, 80 10, 85 25 C 90 40, 80 60, 50 85 Z"
-            stroke="#ff6694"
-            strokeWidth="3"
-            fill="none"
-          />
-        </svg>
-      </motion.div>
-
       <div className="container mx-auto max-w-7xl relative">
         {/* Main content container */}
         <div className="relative flex flex-col items-center justify-center">
@@ -117,32 +83,6 @@ export function Hero() {
               <p className="text-[#d9d9d9] text-[54px] font-[Mrs_Saint_Delafield]">
                 Make the world a better place
               </p>
-            </div>
-          </motion.div>
-
-          {/* Left side - Name tag */}
-          <motion.div
-            initial={{ opacity: 0, x: -50 }}
-            animate={{ opacity: 1, x: 0 }}
-            transition={{ duration: 0.8, delay: 0.6 }}
-            className="absolute left-0 top-1/2 -translate-y-1/2 z-20"
-          >
-            <div className="border-2 border-[#ff6694] rounded-full px-8 py-3">
-              <p className="text-white uppercase tracking-wider text-lg">
-                MIINHUU
-              </p>
-            </div>
-          </motion.div>
-
-          {/* Right side - Year tag */}
-          <motion.div
-            initial={{ opacity: 0, x: 50 }}
-            animate={{ opacity: 1, x: 0 }}
-            transition={{ duration: 0.8, delay: 0.8 }}
-            className="absolute right-0 top-2/3 z-20"
-          >
-            <div className="border-2 border-[#ff6694] rounded-full px-8 py-3">
-              <p className="text-white text-lg">2005 - 2026</p>
             </div>
           </motion.div>
 

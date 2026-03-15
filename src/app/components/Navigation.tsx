@@ -23,9 +23,7 @@ export function Navigation() {
       <div className="container mx-auto max-w-7xl px-6 py-4">
         <div className="flex justify-between items-center">
           <a href="#home" className="text-[#ff6694] text-2xl">
-            <span className="border-2 border-[#ff6694] rounded-full px-4 py-2 hover:bg-[#ff6694]/10 transition-colors">
-              GD
-            </span>
+            
           </a>
 
           {/* Desktop menu */}

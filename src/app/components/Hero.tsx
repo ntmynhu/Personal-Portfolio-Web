@@ -77,7 +77,7 @@ export function Hero() {
             <h1
               className="leading-none whitespace-nowrap text-[180px] text-[#ffffff]"
               style={{
-                fontFamily: "'Mrs_Saint_Delafield', cursive",
+                fontFamily: "'Mrs Saint Delafield', cursive",
               }}
             >
               <p className="text-[#d9d9d9] font-[Mrs_Saint_Delafield]">
@@ -111,10 +111,10 @@ export function Hero() {
               className="text-[#ff6694] text-4xl md:text-5xl text-center leading-none"
               style={{ fontFamily: "'Reenie Beanie', cursive" }}
             >
-              <p className="p-[0px] text-[#d9d9d9] text-[54px] font-[Mrs_Saint_Delafield]">
+              <p className="p-[0px] text-[#d9d9d9] text-[54px] font-[Mrs Saint Delafield]">
                 Turn coffee into code
               </p>
-              <p className="text-[#d9d9d9] text-[54px] font-[Mrs_Saint_Delafield]">
+              <p className="text-[#d9d9d9] text-[54px] font-[Mrs Saint Delafield]">
                 Make the world a better place
               </p>
             </div>

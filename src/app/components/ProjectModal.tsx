@@ -1,5 +1,5 @@
 import { motion } from "motion/react";
-import { X } from "lucide-react";
+import { ExternalLink, X } from "lucide-react";
 import { ImageWithFallback } from "./figma/ImageWithFallback";
 
 export interface ProjectData {
@@ -138,13 +138,22 @@ export function ProjectModal({ project, onClose }: ProjectModalProps) {
           {/* Action Buttons */}
           <div className="flex gap-4 pt-4">
             <a
-              href={project.links.demo}
+              onClick={(e) => {
+                      e.stopPropagation();
+                      window.open(project.links.demo, "_blank");
+                    }}
               className="flex-1 bg-[#ff6694] hover:bg-[#ff8ab0] text-white px-6 py-3 rounded-lg transition-colors text-center"
             >
               Play Demo
             </a>
             <a
-              href={project.links.github}
+              onClick={(e) => {
+                      e.stopPropagation();
+                      window.open(
+                        project.links.github,
+                        "_blank",
+                      );
+                    }}
               className="flex-1 bg-[#14171c] hover:bg-gray-800 text-white px-6 py-3 rounded-lg transition-colors border border-gray-700 text-center"
             >
               View Code

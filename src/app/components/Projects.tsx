@@ -16,12 +16,12 @@ export function Projects() {
       fullDescription:
         "Blossom Corner is a farming simulation game where players can experience the joy of growing and caring for beautiful flowers. Starting with a small garden, you grow flowers, take care of them and sell them at your little flower shop.",
       image:
-        "https://github.com/ntmynhu/Mynhu-Portfolio/blob/main/src/assets/BlossomCorner/Frame%201%20(6).png?raw=true",
+        "https://github.com/ntmynhu/Mynhu-Portfolio/blob/main/src/assets/BlossomCorner/Frame%202%20(2).png?raw=true",
       screenshots: [
-        "https://github.com/ntmynhu/Personal-Portfolio-Web/blob/main/src/assets/BlossomCorner/Homescene.jpg?raw=true",
-        "https://github.com/ntmynhu/Personal-Portfolio-Web/blob/main/src/assets/BlossomCorner/Homescene.jpg?raw=true",
-        "https://github.com/ntmynhu/Personal-Portfolio-Web/blob/main/src/assets/BlossomCorner/Homescene.jpg?raw=true",
-        "https://github.com/ntmynhu/Personal-Portfolio-Web/blob/main/src/assets/BlossomCorner/Homescene.jpg?raw=true",
+        "https://github.com/ntmynhu/Mynhu-Portfolio/blob/main/src/assets/BlossomCorner/Homescene.jpg?raw=true",
+        "https://github.com/ntmynhu/Mynhu-Portfolio/blob/main/src/assets/BlossomCorner/Watering%20and%20fertilizing.jpg?raw=true",
+        "https://github.com/ntmynhu/Mynhu-Portfolio/blob/main/src/assets/BlossomCorner/Garden%20full%20of%20flower.jpg?raw=true",
+        "https://github.com/ntmynhu/Mynhu-Portfolio/blob/main/src/assets/BlossomCorner/CustomerOrder.jpg?raw=true",
       ],
       videoUrl:
         "https://www.youtube.com/embed/KAwdz8wRhlo?si=pvHtusr6-YW9I0FG",
@@ -30,19 +30,18 @@ export function Projects() {
         "C#"
       ],
       features: [
-        "200+ unique puzzle levels",
-        "Daily challenges and rewards",
-        "Social features and leaderboards",
-        "10+ power-ups and boosters",
-        "Seasonal events and updates",
-        "Offline playability",
+        "Plant, grow, and harvest different types of flowers",
+        "Care for plants through watering and fertilizing",
+        "Run a small flower shop to sell your harvested flowers",
+        "Customers visit the shop with different orders",
+        "Earn coins to expand your garden and unlock new flowers",
       ],
       role: "Solo Developer",
-      duration: "6 months",
-      platform: "iOS, Android",
+      duration: "3 months",
+      platform: "Android, WebGL",
       links: {
-        demo: "#",
-        github: "#",
+        demo: "https://ntmynhu.itch.io/blossom-corner",
+        github: "https://github.com/ntmynhu/Blossom-Corner",
       },
     },
     {
@@ -52,7 +51,7 @@ export function Projects() {
       fullDescription:
         "“Foxy Adventure: The Truth Pearl” is an action-adventure platformer where players guide Foxy the fox through a world slowly turning to stone after a mysterious tremor, battling monsters and searching for an ancient pearl to restore life to his homeland.",
       image:
-        "https://github.com/ntmynhu/Mynhu-Portfolio/blob/main/src/assets/FoxyAdventure/Frame%203%20(3).png?raw=true",
+        "https://github.com/ntmynhu/Mynhu-Portfolio/blob/main/src/assets/FoxyAdventure/Frame%203%20(4).png?raw=true",
       screenshots: [
         "https://images.unsplash.com/photo-1758874572979-bd0f18d34565?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx2aXJ0dWFsJTIwcmVhbGl0eSUyMGdhbWluZ3xlbnwxfHx8fDE3NzMzOTAzMjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
         "https://images.unsplash.com/photo-1762742228148-f38c34ea7f1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx1bml0eSUyMGdhbWUlMjBkZXZlbG9wbWVudHxlbnwxfHx8fDE3NzMzMzkwOTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -121,7 +120,7 @@ export function Projects() {
       fullDescription:
         "A love letter to classic 2D platformers, featuring tight controls, challenging level design, and gorgeous pixel art. Navigate through beautifully crafted levels filled with secrets, collectibles, and creative boss battles. The game pays homage to retro classics while introducing modern quality-of-life features.",
       image:
-        "https://github.com/ntmynhu/Mynhu-Portfolio/blob/main/src/assets/CoTam/Screenshot%202026-01-18%20145835.png?raw=true",
+        "https://github.com/ntmynhu/Mynhu-Portfolio/blob/main/src/assets/CoTam/Frame%203%20(5).png?raw=true",
       screenshots: [
         "https://images.unsplash.com/photo-1758043323593-d4511bcf82a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwaXhlbCUyMGFydCUyMHBsYXRmb3JtZXJ8ZW58MXx8fHwxNzczNDA5ODI1fDA&ixlib=rb-4.1.0&q=80&w=1080",
         "https://images.unsplash.com/photo-1592840496694-26d035b52b48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx2aWRlbyUyMGdhbWUlMjBjb250cm9sbGVyfGVufDF8fHx8MTc3MzMxNjgzNHww&ixlib=rb-4.1.0&q=80&w=1080",

@@ -144,7 +144,7 @@ export function ProjectModal({ project, onClose }: ProjectModalProps) {
                     }}
               className="flex-1 bg-[#ff6694] hover:bg-[#ff8ab0] text-white px-6 py-3 rounded-lg transition-colors text-center"
             >
-              Play Demo
+              Play Game
             </a>
             <a
               onClick={(e) => {

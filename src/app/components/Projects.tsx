@@ -18,10 +18,10 @@ export function Projects() {
       image:
         "https://github.com/ntmynhu/Mynhu-Portfolio/blob/main/src/assets/BlossomCorner/Frame%202%20(2).png?raw=true",
       screenshots: [
-        "https://github.com/ntmynhu/Mynhu-Portfolio/blob/main/src/assets/BlossomCorner/Homescene.jpg?raw=true",
-        "https://github.com/ntmynhu/Mynhu-Portfolio/blob/main/src/assets/BlossomCorner/Watering%20and%20fertilizing.jpg?raw=true",
-        "https://github.com/ntmynhu/Mynhu-Portfolio/blob/main/src/assets/BlossomCorner/Garden%20full%20of%20flower.jpg?raw=true",
-        "https://github.com/ntmynhu/Mynhu-Portfolio/blob/main/src/assets/BlossomCorner/CustomerOrder.jpg?raw=true",
+        "https://github.com/ntmynhu/Mynhu-Portfolio/blob/main/src/assets/BlossomCorner/1.jpg?raw=true",
+        "https://github.com/ntmynhu/Mynhu-Portfolio/blob/main/src/assets/BlossomCorner/3.jpg?raw=true",
+        "https://github.com/ntmynhu/Mynhu-Portfolio/blob/main/src/assets/BlossomCorner/4.jpg?raw=true",
+        "https://github.com/ntmynhu/Mynhu-Portfolio/blob/main/src/assets/BlossomCorner/5.jpg?raw=true",
       ],
       videoUrl:
         "https://www.youtube.com/embed/KAwdz8wRhlo?si=pvHtusr6-YW9I0FG",
@@ -53,89 +53,86 @@ export function Projects() {
       image:
         "https://github.com/ntmynhu/Mynhu-Portfolio/blob/main/src/assets/FoxyAdventure/Frame%203%20(4).png?raw=true",
       screenshots: [
-        "https://images.unsplash.com/photo-1758874572979-bd0f18d34565?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx2aXJ0dWFsJTIwcmVhbGl0eSUyMGdhbWluZ3xlbnwxfHx8fDE3NzMzOTAzMjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-        "https://images.unsplash.com/photo-1762742228148-f38c34ea7f1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx1bml0eSUyMGdhbWUlMjBkZXZlbG9wbWVudHxlbnwxfHx8fDE3NzMzMzkwOTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-        "https://images.unsplash.com/photo-1617507171089-6cb9aa5add36?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxnYW1pbmclMjBzZXR1cCUyMG5lb258ZW58MXx8fHwxNzczNDA5MjEzfDA&ixlib=rb-4.1.0&q=80&w=1080",
-        "https://images.unsplash.com/photo-1676238560626-45d35b63b38f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHwzZCUyMG1vZGVsaW5nJTIwc29mdHdhcmV8ZW58MXx8fHwxNzczMzMwNTEyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "https://github.com/ntmynhu/Mynhu-Portfolio/blob/main/src/assets/FoxyAdventure/Map3.png?raw=true",
+        "https://github.com/ntmynhu/Mynhu-Portfolio/blob/main/src/assets/FoxyAdventure/Map4.png?raw=true",
+        "https://github.com/ntmynhu/Mynhu-Portfolio/blob/main/src/assets/FoxyAdventure/BossFight2.png?raw=true",
+        "https://github.com/ntmynhu/Mynhu-Portfolio/blob/main/src/assets/FoxyAdventure/BossFight1.png?raw=true"
       ],
-      videoUrl: "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      videoUrl: "https://www.youtube.com/embed/LWtF0wVYS-c?si=vh0c23NOqsdwfQ9B",
       tech: [
-        "Unreal Engine",
-        "C++",
-        "Oculus SDK",
-        "XR Interaction Toolkit",
+        "Godot",
+        "GDScript"
       ],
       features: [
-        "Full hand-tracking support",
-        "Physics-based puzzle solving",
-        "3+ hours of gameplay",
-        "Stunning photorealistic environments",
-        "Comfort settings for all VR users",
-        "Spatial audio implementation",
+        "Metroidvania exploration across 7 interconnected maps",
+        "Elemental combat system: Water, Fire, Nature, Lightning, and Physical",
+        "4 weapon types with upgradeable combat abilities",
+        "Accessory system and consumable items for strategic gameplay",
+        "9 enemy types, 3 boss battles, and several mini-boss encounters",
+        "Online co-op gameplay supported by a dedicated server",
+        "Online ranking system to compete with other players"
       ],
-      role: "VR Developer",
-      duration: "9 months",
-      platform: "Meta Quest, PCVR",
+      role: "Gameplay Programmer",
+      duration: "3 months",
+      platform: "WebGL",
       links: {
-        demo: "#",
-        github: "#",
+        demo: "https://gnutt.itch.io/group8-foxyaventure-the-truth-pearl",
+        github: "https://github.com/tienminhduong/FoxyAdventure",
       },
     },
     {
       title: "DeMimics",
       description:
-        "Fast-paced multiplayer game with competitive ranking system",
+        "A tactical puzzle game where you play as mischievous mimics trying to stop an explorer from reaching the treasure hidden in a ruined sanctuary.",
       fullDescription:
-        "Enter the arena in this intense 5v5 multiplayer battle game. Choose from a diverse roster of heroes, each with unique abilities and playstyles. Climb the competitive ladder through strategic teamwork, precise mechanics, and smart decision-making. Features a robust matchmaking system and regular balance updates.",
+        "DeMimics is a puzzle game built around one twist: You are the enemy. Created in 1 week for Ham Jam #1, the game lets you control mischievous mimics living in a ruined forest sanctuary as you block, trap, and touch the explorer before he reaches the treasure. From his point of view you are monsters — but maybe the story isn’t that simple.",
       image:
         "https://github.com/ntmynhu/Mynhu-Portfolio/blob/main/src/assets/DeMimics/Screenshot%202026-02-13%20194145.png?raw=true",
       screenshots: [
-        "https://images.unsplash.com/photo-1676238560626-45d35b63b38f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHwzZCUyMG1vZGVsaW5nJTIwc29mdHdhcmV8ZW58MXx8fHwxNzczMzMwNTEyfDA&ixlib=rb-4.1.0&q=80&w=1080",
-        "https://images.unsplash.com/photo-1676238560626-45d35b63b38f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHwzZCUyMG1vZGVsaW5nJTIwc29mdHdhcmV8ZW58MXx8fHwxNzczMzMwNTEyfDA&ixlib=rb-4.1.0&q=80&w=1080",
-        "https://images.unsplash.com/photo-1642678730255-40a9e1847fb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjeWJlcnB1bmslMjBnYW1lJTIwc2NyZWVuc2hvdHxlbnwxfHx8fDE3NzM0MDk4MjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-        "https://images.unsplash.com/photo-1758043323593-d4511bcf82a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwaXhlbCUyMGFydCUyMHBsYXRmb3JtZXJ8ZW58MXx8fHwxNzczNDA5ODI1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "https://github.com/ntmynhu/Mynhu-Portfolio/blob/main/src/assets/DeMimics/Mainmenu.png?raw=true",
+        "https://github.com/ntmynhu/Mynhu-Portfolio/blob/main/src/assets/DeMimics/Level2.png?raw=true",
+        "https://github.com/ntmynhu/Mynhu-Portfolio/blob/main/src/assets/DeMimics/Level3.png?raw=true",
+        "https://github.com/ntmynhu/Mynhu-Portfolio/blob/main/src/assets/DeMimics/Wingame.png?raw=true",
       ],
-      videoUrl: "https://www.youtube.com/embed/dQw4w9WgXcQ",
-      tech: ["Unity", "Mirror", "PlayFab", "Photon Voice"],
+      videoUrl: "https://www.youtube.com/embed/GlLQEWGQ5rI?si=-SSRCz8AjbbZTZUk",
+      tech: ["Unity", "C#"],
       features: [
-        "5v5 competitive matches",
-        "15+ unique heroes and champions",
-        "Ranked matchmaking system",
-        "Voice chat integration",
-        "Seasonal battle passes",
-        "Spectator mode and replays",
+        "8 puzzle levels with increasing difficulty",
+        "Enemy-side gameplay – Play as the mischievous mimics",
+        "Shared control system – All mimics move with a single input",
+        "AI pathfinding – The explorer finds the shortest route to the pit",
+        "Strategic blocking puzzles – Plan moves to intercept and stop him",
       ],
-      role: "Network Programmer",
-      duration: "15 months",
-      platform: "PC",
+      role: "Artist, Programmer",
+      duration: "1 week",
+      platform: "WebGL",
       links: {
-        demo: "#",
-        github: "#",
+        demo: "https://ntmynhu.itch.io/demimics",
+        github: "https://github.com/tuananhnguyen2004/ham-jam-1",
       },
     },
     {
       title: "CoTam",
       description:
-        "Retro-style platformer with pixel art and challenging level design",
+        "A cooking simulation game where players run a small Vietnamese cơm tấm stall",
       fullDescription:
-        "A love letter to classic 2D platformers, featuring tight controls, challenging level design, and gorgeous pixel art. Navigate through beautifully crafted levels filled with secrets, collectibles, and creative boss battles. The game pays homage to retro classics while introducing modern quality-of-life features.",
+        "CoTam is a cooking simulation game where players manage a small cơm tấm stall in Saigon. Players take customer orders, prepare dishes with the correct ingredients, and grill meat at the right time while working under time pressure. Each in-game day introduces more customers and challenges, testing the player’s speed, accuracy, and kitchen management skills.",
       image:
         "https://github.com/ntmynhu/Mynhu-Portfolio/blob/main/src/assets/CoTam/Frame%203%20(5).png?raw=true",
       screenshots: [
-        "https://images.unsplash.com/photo-1758043323593-d4511bcf82a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwaXhlbCUyMGFydCUyMHBsYXRmb3JtZXJ8ZW58MXx8fHwxNzczNDA5ODI1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-        "https://images.unsplash.com/photo-1592840496694-26d035b52b48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx2aWRlbyUyMGdhbWUlMjBjb250cm9sbGVyfGVufDF8fHx8MTc3MzMxNjgzNHww&ixlib=rb-4.1.0&q=80&w=1080",
-        "https://images.unsplash.com/photo-1758598738339-6b1602317e52?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxnYW1lJTIwZGV2ZWxvcG1lbnQlMjBzY3JlZW58ZW58MXx8fHwxNzczMzE3NjM4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-        "https://images.unsplash.com/photo-1640187128454-1d7c462ede26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtb2JpbGUlMjBnYW1lJTIwZGV2ZWxvcG1lbnR8ZW58MXx8fHwxNzczNDA5MjEzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "https://github.com/ntmynhu/Mynhu-Portfolio/blob/main/src/assets/CoTam/MainMenu.png?raw=true",
+        "https://github.com/ntmynhu/Mynhu-Portfolio/blob/main/src/assets/CoTam/CoTam.png?raw=true",
+        "https://github.com/ntmynhu/Mynhu-Portfolio/blob/main/src/assets/CoTam/CustomerOrder1.png?raw=true",
+        "https://github.com/ntmynhu/Mynhu-Portfolio/blob/main/src/assets/CoTam/Kitchen2.png?raw=true",
       ],
       videoUrl: "https://www.youtube.com/embed/dQw4w9WgXcQ",
-      tech: ["Godot", "GDScript", "Aseprite"],
+      tech: ["Unity", "C#"],
       features: [
-        "40+ handcrafted levels",
-        "Pixel-perfect collision detection",
-        "Secret areas and collectibles",
-        "6 unique boss battles",
-        "Speedrun timer and leaderboards",
-        "Unlockable character skins",
+        "21+ levels with increasing difficulty",
+        "Unlockable ingredients as the stall grows",
+        "Fast-paced order preparation gameplay",
+        "Interactive grilling and cooking mechanics",
+        "Rewards for speed and order accuracy"
       ],
       role: "Game Designer & Developer",
       duration: "8 months",
@@ -219,7 +216,7 @@ export function Projects() {
                     className="flex items-center gap-2 text-[#ff6694] hover:text-[#ff6694]/80 transition-colors text-sm"
                   >
                     <ExternalLink className="w-4 h-4" />
-                    Demo
+                    Game
                   </button>
                   <button
                     onClick={(e) => {

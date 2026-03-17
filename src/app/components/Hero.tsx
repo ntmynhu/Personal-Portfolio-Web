@@ -100,8 +100,27 @@ export function Hero() {
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4 text-sm text-gray-400">
             <div>+84 828505798</div>
             <div>ntmn1105@gmail.com</div>
-            <div>linkedin.com/in/ntmynhu/</div>
-            <div>github.com/ntmynhu</div>
+            <div>
+            <a
+              href="https://linkedin.com/in/ntmynhu/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:text-white transition"
+            >
+              linkedin.com/in/ntmynhu/
+            </a>
+          </div>
+
+          <div>
+            <a
+              href="https://github.com/ntmynhu"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:text-white transition"
+            >
+              github.com/ntmynhu
+            </a>
+          </div>
           </div>
         </div>
       </motion.div>

@@ -1,6 +1,6 @@
 # 🌸 My Portfolio
 
-🔗 Live Demo: https://ntmynhu.vercel.app
+🔗 Live Demo: https://ntmynhu.vercel.app/
 
 ---
 

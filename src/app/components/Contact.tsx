@@ -6,27 +6,21 @@ export function Contact() {
     {
       icon: Mail,
       label: "Email",
-      value: "minni05@gmail.com",
-      href: "mailto:minni05@gmail.com",
+      value: "ntmn1105@gmail.com",
+      href: "mailto:ntmn1105@gmail.com",
     },
     {
       icon: Github,
       label: "GitHub",
-      value: "github.com/yourprofile",
-      href: "https://github.com",
+      value: "github.com/ntmynhu",
+      href: "https://github.com/ntmynhu",
     },
     {
       icon: Linkedin,
       label: "LinkedIn",
-      value: "linkedin.com/in/yourprofile",
-      href: "https://linkedin.com",
-    },
-    {
-      icon: Twitter,
-      label: "Twitter",
-      value: "@yourhandle",
-      href: "https://twitter.com",
-    },
+      value: "linkedin.com/in/ntmynhu/",
+      href: "https://linkedin.com/in/ntmynhu/",
+    }
   ];
 
   return (
@@ -43,16 +37,20 @@ export function Contact() {
             Let's Connect
           </h2>
           <p className="text-gray-400 text-lg max-w-3xl mx-auto">
-            Have a game idea or want to collaborate? I'm always open to
-            discussing new projects and opportunities.
+            I'm always open to discussing new projects and opportunities.
           </p>
         </motion.div>
 
-        <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8 max-w-5xl mx-auto">
+        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-5xl mx-auto ">
           {socialLinks.map((link, index) => (
             <motion.a
               key={link.label}
-              href={link.href}
+              onClick={(e) => {
+                      e.stopPropagation();
+                      window.open(
+                        link.href,
+                      );
+                    }}
               initial={{ opacity: 0, y: 30 }}
               whileInView={{ opacity: 1, y: 0 }}
               viewport={{ once: true }}
@@ -73,31 +71,12 @@ export function Contact() {
           initial={{ opacity: 0 }}
           whileInView={{ opacity: 1 }}
           viewport={{ once: true }}
-          transition={{ duration: 0.6, delay: 0.4 }}
-          className="mt-20 text-center"
-        >
-          <div className="bg-[#14171c] border-2 border-gray-800 rounded-xl p-12 max-w-3xl mx-auto">
-            <h3 className="text-white text-3xl mb-4">Ready to Start a Project?</h3>
-            <p className="text-gray-400 mb-8">
-              Let's discuss how we can create something amazing together.
-            </p>
-            <a
-              href="mailto:minni05@gmail.com"
-              className="inline-block bg-[#ff6694] hover:bg-[#ff8ab0] text-white px-8 py-4 rounded-full transition-colors"
-            >
-              Get In Touch
-            </a>
-          </div>
-        </motion.div>
-
-        <motion.div
-          initial={{ opacity: 0 }}
-          whileInView={{ opacity: 1 }}
-          viewport={{ once: true }}
           transition={{ duration: 0.6, delay: 0.6 }}
           className="mt-16 text-center text-gray-500 text-sm"
         >
-          <p>© 2026 Game Developer Portfolio. All rights reserved.</p>
+          <p>
+            
+          </p>
         </motion.div>
       </div>
     </section>

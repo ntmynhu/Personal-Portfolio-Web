@@ -14,7 +14,7 @@ export function About() {
       icon: Code2,
       title: "Game Programming",
       description:
-        "Experienced with Unity (C#) and Godot (GDScript)",
+        "Experienced with Unity (C#), C++ and Godot (GDScript)",
     },
     {
       icon: Gamepad2,

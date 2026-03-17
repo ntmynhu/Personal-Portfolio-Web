@@ -45,6 +45,68 @@ export function Projects() {
       },
     },
     {
+      title: "CoTam",
+      description:
+        "A cooking simulation game where players run a small Vietnamese cơm tấm stall",
+      fullDescription:
+        "CoTam is a cooking simulation game where players manage a small cơm tấm stall in Saigon. Players take customer orders, prepare dishes with the correct ingredients, and grill meat at the right time while working under time pressure. Each in-game day introduces more customers and challenges, testing the player’s speed, accuracy, and kitchen management skills.",
+      image:
+        "https://github.com/ntmynhu/Mynhu-Portfolio/blob/main/src/assets/CoTam/Frame%203%20(5).png?raw=true",
+      screenshots: [
+        "https://github.com/ntmynhu/Mynhu-Portfolio/blob/main/src/assets/CoTam/MainMenu.png?raw=true",
+        "https://github.com/ntmynhu/Mynhu-Portfolio/blob/main/src/assets/CoTam/CoTam.png?raw=true",
+        "https://github.com/ntmynhu/Mynhu-Portfolio/blob/main/src/assets/CoTam/CustomerOrder1.png?raw=true",
+        "https://github.com/ntmynhu/Mynhu-Portfolio/blob/main/src/assets/CoTam/Kitchen2.png?raw=true",
+      ],
+      videoUrl: "https://www.youtube.com/embed/xUFB46dPMQM?si=4Nbdzh25vnNWJDOU",
+      tech: ["Unity", "C#"],
+      features: [
+        "21 levels with increasing difficulty",
+        "Unlockable ingredients as the stall grows",
+        "Fast-paced order preparation gameplay",
+        "Interactive grilling and cooking mechanics",
+        "Rewards for speed and order accuracy"
+      ],
+      role: "Gameplay Programmer, UI/UX Designer",
+      duration: "3 months",
+      platform: "WebGL",
+      links: {
+        demo: "https://ntmynhu.itch.io/cotam",
+        github: "https://github.com/ntmynhu/CoTam",
+      },
+    },
+    {
+      title: "DeMimics",
+      description:
+        "A tactical puzzle game where you play as mischievous mimics trying to stop an explorer from reaching the treasure hidden in a ruined sanctuary.",
+      fullDescription:
+        "DeMimics is a puzzle game built around one twist: You are the enemy. Created in 1 week for Ham Jam #1, the game lets you control mischievous mimics living in a ruined forest sanctuary as you block, trap, and touch the explorer before he reaches the treasure. From his point of view you are monsters — but maybe the story isn’t that simple.",
+      image:
+        "https://github.com/ntmynhu/Mynhu-Portfolio/blob/main/src/assets/DeMimics/Screenshot%202026-02-13%20194145.png?raw=true",
+      screenshots: [
+        "https://github.com/ntmynhu/Mynhu-Portfolio/blob/main/src/assets/DeMimics/Mainmenu.png?raw=true",
+        "https://github.com/ntmynhu/Mynhu-Portfolio/blob/main/src/assets/DeMimics/Level2.png?raw=true",
+        "https://github.com/ntmynhu/Mynhu-Portfolio/blob/main/src/assets/DeMimics/Level3.png?raw=true",
+        "https://github.com/ntmynhu/Mynhu-Portfolio/blob/main/src/assets/DeMimics/Wingame.png?raw=true",
+      ],
+      videoUrl: "https://www.youtube.com/embed/GlLQEWGQ5rI?si=-SSRCz8AjbbZTZUk",
+      tech: ["Unity", "C#"],
+      features: [
+        "8 puzzle levels with increasing difficulty",
+        "Enemy-side gameplay – Play as the mischievous mimics",
+        "Shared control system – All mimics move with a single input",
+        "AI pathfinding – The explorer finds the shortest route to the pit",
+        "Strategic blocking puzzles – Plan moves to intercept and stop him",
+      ],
+      role: "Artist, UI/UX Designer",
+      duration: "1 week",
+      platform: "WebGL",
+      links: {
+        demo: "https://ntmynhu.itch.io/demimics",
+        github: "https://github.com/tuananhnguyen2004/ham-jam-1",
+      },
+    },
+    {
       title: "Foxy Adventure: The Truth Pearl",
       description:
         "A metroidvania platformer where Foxy explores the world, fights monsters, and uncovers the truth about his homeland.",
@@ -80,68 +142,6 @@ export function Projects() {
         github: "https://github.com/tienminhduong/FoxyAdventure",
       },
     },
-    {
-      title: "DeMimics",
-      description:
-        "A tactical puzzle game where you play as mischievous mimics trying to stop an explorer from reaching the treasure hidden in a ruined sanctuary.",
-      fullDescription:
-        "DeMimics is a puzzle game built around one twist: You are the enemy. Created in 1 week for Ham Jam #1, the game lets you control mischievous mimics living in a ruined forest sanctuary as you block, trap, and touch the explorer before he reaches the treasure. From his point of view you are monsters — but maybe the story isn’t that simple.",
-      image:
-        "https://github.com/ntmynhu/Mynhu-Portfolio/blob/main/src/assets/DeMimics/Screenshot%202026-02-13%20194145.png?raw=true",
-      screenshots: [
-        "https://github.com/ntmynhu/Mynhu-Portfolio/blob/main/src/assets/DeMimics/Mainmenu.png?raw=true",
-        "https://github.com/ntmynhu/Mynhu-Portfolio/blob/main/src/assets/DeMimics/Level2.png?raw=true",
-        "https://github.com/ntmynhu/Mynhu-Portfolio/blob/main/src/assets/DeMimics/Level3.png?raw=true",
-        "https://github.com/ntmynhu/Mynhu-Portfolio/blob/main/src/assets/DeMimics/Wingame.png?raw=true",
-      ],
-      videoUrl: "https://www.youtube.com/embed/GlLQEWGQ5rI?si=-SSRCz8AjbbZTZUk",
-      tech: ["Unity", "C#"],
-      features: [
-        "8 puzzle levels with increasing difficulty",
-        "Enemy-side gameplay – Play as the mischievous mimics",
-        "Shared control system – All mimics move with a single input",
-        "AI pathfinding – The explorer finds the shortest route to the pit",
-        "Strategic blocking puzzles – Plan moves to intercept and stop him",
-      ],
-      role: "Artist, Programmer",
-      duration: "1 week",
-      platform: "WebGL",
-      links: {
-        demo: "https://ntmynhu.itch.io/demimics",
-        github: "https://github.com/tuananhnguyen2004/ham-jam-1",
-      },
-    },
-    {
-      title: "CoTam",
-      description:
-        "A cooking simulation game where players run a small Vietnamese cơm tấm stall",
-      fullDescription:
-        "CoTam is a cooking simulation game where players manage a small cơm tấm stall in Saigon. Players take customer orders, prepare dishes with the correct ingredients, and grill meat at the right time while working under time pressure. Each in-game day introduces more customers and challenges, testing the player’s speed, accuracy, and kitchen management skills.",
-      image:
-        "https://github.com/ntmynhu/Mynhu-Portfolio/blob/main/src/assets/CoTam/Frame%203%20(5).png?raw=true",
-      screenshots: [
-        "https://github.com/ntmynhu/Mynhu-Portfolio/blob/main/src/assets/CoTam/MainMenu.png?raw=true",
-        "https://github.com/ntmynhu/Mynhu-Portfolio/blob/main/src/assets/CoTam/CoTam.png?raw=true",
-        "https://github.com/ntmynhu/Mynhu-Portfolio/blob/main/src/assets/CoTam/CustomerOrder1.png?raw=true",
-        "https://github.com/ntmynhu/Mynhu-Portfolio/blob/main/src/assets/CoTam/Kitchen2.png?raw=true",
-      ],
-      videoUrl: "https://www.youtube.com/embed/dQw4w9WgXcQ",
-      tech: ["Unity", "C#"],
-      features: [
-        "21+ levels with increasing difficulty",
-        "Unlockable ingredients as the stall grows",
-        "Fast-paced order preparation gameplay",
-        "Interactive grilling and cooking mechanics",
-        "Rewards for speed and order accuracy"
-      ],
-      role: "Game Designer & Developer",
-      duration: "8 months",
-      platform: "PC, Nintendo Switch",
-      links: {
-        demo: "#",
-        github: "#",
-      },
-    },
   ];
 
   return (
@@ -158,7 +158,7 @@ export function Projects() {
             Projects
           </h2>
           <p className="text-gray-400 text-lg max-w-3xl">
-            Here are some games and interactive projects I've
+            Here are some games projects I've
             worked on.
           </p>
         </motion.div>

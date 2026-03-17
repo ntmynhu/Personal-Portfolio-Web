@@ -3,20 +3,24 @@ import { motion } from "motion/react";
 export function Skills() {
   const skillCategories = [
     {
-      category: "Game Engines",
-      skills: ["Unity", "Unreal Engine", "Godot"],
-    },
-    {
       category: "Programming",
-      skills: ["C#", "C++", "GDScript", "Python", "JavaScript"],
+      skills: ["C#", "C++", "GDScript"],
     },
     {
-      category: "3D/2D Tools",
-      skills: ["Blender", "Maya", "Photoshop", "Aseprite", "Substance Painter"],
+      category: "Game Engines",
+      skills: ["Unity", "Godot"],
+    },
+    {
+      category: "Tools",
+      skills: ["Git", "GitHub", "Blender", "Affinity"],
     },
     {
       category: "Other",
-      skills: ["Git", "Shader Programming", "Multiplayer Networking", "AI/ML", "Performance Optimization"],
+      skills: [
+        "Debugging",
+        "Game Design",
+        "2D Art (Basic)",
+        "3D Modeling (Basic)"],
     },
   ];
 

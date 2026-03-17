@@ -1,7 +1,8 @@
+# 🌸 My Portfolio
 
-  ## Running the code
+🔗 Live Demo: https://ntmynhu.vercel.app
 
-  Run `npm i` to install the dependencies.
+---
 
-  Run `npm run dev` to start the development server.
-  
+## 📌 About
+This is my personal portfolio website...

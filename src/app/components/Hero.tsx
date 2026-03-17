@@ -15,7 +15,7 @@ export function Hero() {
             initial={{ opacity: 0, y: -20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8 }}
-            className="top-0 left-1/2 -translate-x-[250px] translate-y-[25px] mb-8 z-20"
+            className="top-0 left-1/2 -translate-x-[250px] translate-y-[45px] mb-8 z-20"
           >
             <p className="text-white uppercase tracking-widest text-[20px]">
               GAME PROGRAMMER
